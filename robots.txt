@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SPSUMM.github.io/al-folio/sitemap.xml
+Sitemap: https://SPSUMM.github.io/sitemap.xml
